@@ -12,11 +12,11 @@
 }
 
 .vdl {
-    background-image: url("@/images/05eedd2cb73c0f8baab51788ea64f230221c0794.jpg");
+    background-image: url("@/images/bikes.jpg");
 }
 
 .vd {
-    background-image: url("@/images/276586445270dcca0bc561a0186973ac284c8961.png");
+    background-image: url("@/images/vello.png");
 }
 
 .osram {
@@ -24,17 +24,17 @@
 }
 
 .buil {
-    background-image: url("@/images/7a42111c52733388fa69d69e37f403230c1f95a4.png");
+    background-image: url("@/images/bikeVelloreti.png");
 }
 
 .dis {
-    background-image: url("@/images/8d508d7b28e187efd3830842dfec9b4217475967.png");
+    background-image: url("@/images/map.png");
 }
 
 .red {
-    background-image: url("@/images/4e372e2a8d9aa1ba38d541172e20bb57512e6032.png");
+    background-image: url("@/images/redDot.png");
 }
 
 .city {
-    background-image: url("@/images/449ed33759ac77707654c6f5837d4b4dca7add4.png");
+    background-image: url("@/images/tunel.png");
 }

@@ -1,15 +1,15 @@
 import React from "react";
-import hero1 from "../../images/Container.png";
-import color from "../../images/Product-view_color-Swatches.png";
-import product from "../../images/7838d2af982259a96f988a19c294dad5d4ce1148.png";
-import hero2 from "../../images/Text-media-static_background__qGDyA.png";
-import hero3 from "../../images/Text-media-static_background__qGDyA (1).png";
-import hero4 from "../../images/Text-media-static_background 2.png";
-import hero5 from "../../images/span2.png";
-import hero6 from "../../images/Text-media-static_background (1  ).png";
-import hero7 from "../../images/Text-media-static_background (2).png";
-import hero8 from "../../images/Text-media-static_background (3   ).png";
-import hero9 from "../../images/Bike-highlights_background.png";
+import hero1 from "@/images/Container.png";
+import color from "@/images/Product-view_color-Swatches.png";
+import product from "@/images/modernBike.png";
+import hero2 from "@/images/Text-media-static_background__qGDyA.png";
+import hero3 from "@/images/Text-media-static_background__qGDyA (1).png";
+import hero4 from "@/images/Text-media-static_background 2.png";
+import hero5 from "@/images/span2.png";
+import hero6 from "@/images/Text-media-static_background (1  ).png";
+import hero7 from "@/images/Text-media-static_background (2).png";
+import hero8 from "@/images/Text-media-static_background (3   ).png";
+import hero9 from "@/images/Bike-highlights_background.png";
 import "@/app/products/styles/page.css";
 import Image from "next/image";
 
