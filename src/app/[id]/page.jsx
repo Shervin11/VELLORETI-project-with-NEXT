@@ -131,7 +131,7 @@ const AboutById = () => {
         <Image className="md:w-[50%]" src={hero3} alt="hello" />
       </section>
 
-      <section className="md:h-[900px] h-[400px] my-[30px] bg-center bg-cover flex justify-center flex-col md:px-20 px-10 buil">
+      <section className="md:h-[900px] h-[400px] md:my-[0px] my-[30px] bg-center bg-cover flex justify-center flex-col md:px-20 px-10 buil">
         <h2 className="md:text-5xl text-2xl text-white">Built-in display</h2>
         <p className="mt-[20px] text-white">
           Discover a new level of convenience and <br />
