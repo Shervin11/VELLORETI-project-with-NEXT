@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+.section1 {
+    background-image: url("@/images/7838d2af982259a96f988a19c294dad5d4ce1148.png");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+.section2 {
+    background-image: url("@/images/49956fc9aff8de14165da69c035537a9bbc2088a.png");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}

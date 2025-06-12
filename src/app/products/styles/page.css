@@ -1,0 +1,40 @@
+.vell,
+.dis,
+.red,
+.city {
+    background-image: url("@/images/d8bd60d643dceee9776b69c267697cea79e2ef7c.png");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+.vdl {
+    background-image: url("@/images/05eedd2cb73c0f8baab51788ea64f230221c0794.jpg");
+}
+
+.vd {
+    background-image: url("@/images/276586445270dcca0bc561a0186973ac284c8961.png");
+}
+
+.osram {
+    background-image: url("@/images/bfc42dbf6e765e21a4a3aa473c96874e358cad6f.png");
+}
+
+.buil {
+    background-image: url("@/images/7a42111c52733388fa69d69e37f403230c1f95a4.png");
+}
+
+.dis {
+    background-image: url("@/images/8d508d7b28e187efd3830842dfec9b4217475967.png");
+}
+
+.red {
+    background-image: url("@/images/4e372e2a8d9aa1ba38d541172e20bb57512e6032.png");
+}
+
+.city {
+    background-image: url("@/images/449ed33759ac77707654c6f5837d4b4dca7add4.png");
+}
